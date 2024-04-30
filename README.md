@@ -1,6 +1,4 @@
-# Mateus Kobayashi Scaliante
-
-![badge](https://img.shields.io/static/v1?label=Brazil&message=Londrina&color=03a57a) [![Linkedin Badge](http://img.shields.io/badge/-mateuskobayashiscaliante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-kobayashi-scaliante)](https://www.linkedin.com/in/mateus-kobayashi-scaliante/) [![Gmail Badge](https://img.shields.io/badge/-mateuskobayashiscaliante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuskobayashiscaliante@gmail.com)](mailto:mateuskobayashiscaliante@gmail.com)
+# Mateus Kobayashi
 
 ## What's up? 👋
 
