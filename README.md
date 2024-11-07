@@ -1,9 +1,9 @@
-# Mateus Kobayashi
+# Mateus K Scaliante
 
 ## What's up? 👋
 
 I'm Mateus, 
-I currently work as a Full-Stack Developer, graduated in Systems Analysis and Development with a postgraduate degree in Software Engineering.
+I currently work as a Backend Software Developer, graduated in Systems Analysis and Development with a postgraduate degree in Software Engineering.
 
 ### Favorite languages, technologies and frameworks :computer: 
 
